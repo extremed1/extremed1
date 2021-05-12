@@ -4,9 +4,7 @@ I'm Danielle Moore. I'm a graduate student at George Mason University pursuing a
 **extremed1/extremed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🌱 I’m currently learning **Python** and **SQL** 
-- 💬 Ask me about 
+- 🌱 I’m currently learning **Python** and **SQL**  
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I can play 3 very different instruments (saxophone, euphonium, and violin)
+- ⚡ Fun fact: I can play 3 very different instruments: saxophone, euphonium, and violin
 - 
--->
