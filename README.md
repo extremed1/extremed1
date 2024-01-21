@@ -1,13 +1,15 @@
-# Hi everyone, I'm Danielle Moore. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi everyone, I'm Danielle! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 - *Aspiring MS in Computer Science student at [George Mason University](https://www.gmu.edu/)*
 - *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2023*
 - *BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
-[![Linkedin: dmoore007](https://img.shields.io/badge/-dmoore007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
+[![Linkedin: Danielle Moore](https://img.shields.io/badge/-dmoore007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
+
+### Cool Facts About Me:
 
 ```python
-about_me = dict(  pronouns = ["She","Her"],
+danielle = dict(  pronouns = ["She","Her"],
             sports_played = {"Basketball": {"Position": ["pg","sg"], "Level": ["High School","AAU"]},
                               "Track_And_Field" : {"Events": ["55","60","100","200","4x100","4x200"], "Level": "High School"}
                             },
