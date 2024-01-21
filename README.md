@@ -1,10 +1,37 @@
-# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I'm Danielle Moore. I'm a graduate student at George Mason University pursuing a master's degree in Sport and Recreation Studies with a concentration in Applied Sstatistics. I'm passionate about combining sports and analytics to create meaningful insights.
-<!--
-**extremed1/extremed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# Hi everyone, I'm Danielle Moore. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
+*Aspiring MS in Computer Science student at [George Mason University](https://www.gmu.edu/)*
+*MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2023*
+*BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
-- 🌱 I’m currently learning **Python** and **SQL**  
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I can play 3 very different instruments: saxophone, euphonium, and violin
-- 
+[![Linkedin: dmoore007](https://img.shields.io/badge/-dmoore007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
+
+```python
+about_me = dict(  pronouns = ["She","Her"],
+            sports_played = {"Basketball": {"Position": ["pg","sg"], "Level": ["High School","AAU"]},
+                              "Track_And_Field" : {"Events": ["55","60","100","200","4x100","4x200"], "Level": "High School"}
+                            },
+            instruments_played = ["Saxophone","Euphonium","Violin"],
+            hobbies = ["Watch movies", "Play video games","Reading","Exercising","Play basketball","Watch basketball","Traveling","Music"],
+            fav_teams = ["New York Knicks","New York Giants","New York Yankees"],
+            fav_book_genres = ["History","Horror","Crime/Mystery"],
+            fav_games = ["NBA 2K","Madden","Call of Duty"],
+            fav_music_genres = ["Hip-Hop","R&B","Pop","Gospel"],
+            fav_artists = ["Beyoncé","Drake"],
+            concerts_attended = ["Renaissance World Tour"]
+)
+```
+
+### Currently:
+- Enrolled in courses at Northern Virginia Community College to complete prerequisite courses for MS Computer Science
+- Interning for the Washington Commanders
+- Building my first website!
+- Making pretty data visualizations.
+
+### Tools:
+<p align="center">
+	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+</p>
