@@ -1,8 +1,8 @@
 # Hi everyone, I'm Danielle Moore. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-*Aspiring MS in Computer Science student at [George Mason University](https://www.gmu.edu/)*
-*MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2023*
-*BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
+- *Aspiring MS in Computer Science student at [George Mason University](https://www.gmu.edu/)*
+- *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2023*
+- *BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
 [![Linkedin: dmoore007](https://img.shields.io/badge/-dmoore007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
 
@@ -24,7 +24,7 @@ about_me = dict(  pronouns = ["She","Her"],
 
 ### Currently:
 - Enrolled in courses at Northern Virginia Community College to complete prerequisite courses for MS Computer Science
-- Interning for the Washington Commanders
+- Interning for the Washington Commanders :football:
 - Building my first website!
 - Making pretty data visualizations.
 
