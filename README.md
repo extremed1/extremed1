@@ -29,7 +29,7 @@ danielle = dict(  pronouns = ["She","Her"],
 - :notebook: Enrolled in courses at Northern Virginia Community College to complete prerequisite courses for MS Computer Science 
 - :football: Interning for the Washington Commanders 
 - :computer: Building my first website! 
-- 📈_trend: Making pretty data visualizations 
+- :chart_with_upwards_trend: Making pretty data visualizations 
 
 ### Languages & Tools:
 <p align="center">
