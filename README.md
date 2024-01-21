@@ -4,7 +4,7 @@
 - *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2023*
 - *BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
-[![Linkedin: Danielle Moore](https://img.shields.io/badge/-dmoore007-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
+[![Linkedin: Danielle Moore](https://img.shields.io/badge/-Danielle-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
 ![](https://komarev.com/ghpvc/?username=extremed1&color=green&style=for-the-badge)
 
 ### Cool Facts About Me:
