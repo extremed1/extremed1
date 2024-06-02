@@ -26,10 +26,9 @@ danielle = dict(  pronouns = ["She","Her"],
 ```
 
 ### Currently:
-- :notebook: Enrolled in courses at Northern Virginia Community College to complete prerequisite courses for MS Computer Science 
+- :notebook: Enrolled in the Computing Foundations Graduate Certificate program at George Mason
 - :football: Interning for the Washington Commanders 
 - :computer: Building my first website! 
-- :chart_with_upwards_trend: Making pretty data visualizations 
 
 ### Languages & Tools:
 <p align="center">
