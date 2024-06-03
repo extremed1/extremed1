@@ -1,6 +1,5 @@
 # Hi everyone, I'm Danielle! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-- *Aspiring MS in Computer Science student at [George Mason University](https://www.gmu.edu/)*
 - *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2023*
 - *BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
@@ -24,11 +23,6 @@ danielle = dict(  pronouns = ["She","Her"],
             concerts_attended = ["Renaissance World Tour"]
 )
 ```
-
-### Currently:
-- :notebook: Enrolled in the Computing Foundations Graduate Certificate program at George Mason
-- :football: Interning for the Washington Commanders 
-- :computer: Building my first website! 
 
 ### Languages & Tools:
 <p align="center">
