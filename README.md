@@ -1,6 +1,7 @@
 # Hi everyone, I'm Danielle! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 - *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2022*
+- *Computer Foundations Graduate Certificate/Software Engingeering, MS Bridge Pathway from [George Mason University](https://www.gmu.edu/) 2025*
 - *BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
 [![Linkedin: Danielle Moore](https://img.shields.io/badge/-Danielle-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
@@ -30,4 +31,6 @@ danielle = dict(  pronouns = ["She","Her"],
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Java" alt="Java" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjava-logo-1%2F&psig=AOvVaw0_dxN4XHuwBtSNhXllgWy6&ust=1731987799586000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjp5r_75IkDFQAAAAAdAAAAABAE" width="70" height="40"
+style="vertical-align:down; margin:4px"/>
 </p>
