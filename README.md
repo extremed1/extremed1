@@ -20,7 +20,7 @@ danielle = dict(  pronouns = ["She","Her"],
             fav_book_genres = ["History","Horror","Crime/Mystery"],
             fav_games = ["NBA 2K","Madden","Call of Duty"],
             fav_music_genres = ["Hip-Hop","R&B","Pop","Gospel"],
-            fav_artists = ["Beyoncé","Drake"],
+            fav_artists = ["Beyoncé","Drake","Kendrick Lamar"],
             concerts_attended = ["Renaissance World Tour"]
 )
 ```
