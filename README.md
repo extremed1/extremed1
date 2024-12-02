@@ -1,7 +1,7 @@
 # Hi everyone, I'm Danielle! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-- *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2022*
 - *Computer Foundations Graduate Certificate/Software Engingeering, MS Bridge Pathway from [George Mason University](https://www.gmu.edu/) 2025/2028*
+- *MS Sport & Recreation Studies, Concentration in Applied Statistics from [George Mason University](https://www.gmu.edu/) 2022*
 - *BS Sport Management, Minor in Sport Analytics from [George Mason University](https://www.gmu.edu/) 2019*
 
 [![Linkedin: Danielle Moore](https://img.shields.io/badge/-Danielle-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoore007/)](https://www.linkedin.com/in/dmoore007/)
