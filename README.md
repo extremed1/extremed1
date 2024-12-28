@@ -1,5 +1,6 @@
 # Hi everyone, I'm Danielle! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-## My GitHub is currently under recontruction :hammer_and_wrench:.  I'm excited to re-introduce myself in 2025 with new projects!
+### :hammer_and_wrench: My GitHub is currently under re-construction. 
+### I'm excited to re-introduce myself in 2025 with new projects!
 
 <!--
 - *Computer Foundations Graduate Certificate/Software Engingeering, MS Bridge Pathway from [George Mason University](https://www.gmu.edu/) 2025/2028*
