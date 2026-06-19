@@ -16,6 +16,14 @@
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt= "AWS" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt= "AWS" width="55" height="40" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt= "Javascript" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt= "HTML" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt= "React" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt= "Vue" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt= "FastAPI" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt= "SpringBoot" width="55" height="57" style="vertical-align:down;margin:4px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt= "PostgreSQL" width="55" height="57" style="vertical-align:down;margin:4px" />
+	
 </p>
 
